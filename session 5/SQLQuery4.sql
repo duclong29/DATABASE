@@ -1,0 +1,1 @@
+CREATE TYPEusertype FROMvarchar(20) NOTNULL
